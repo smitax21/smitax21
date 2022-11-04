@@ -9,7 +9,7 @@
 <!--   <code><a href="https://github.com/smitax21" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code> -->
 </h5>
 
-I am studying MSc Computing at Sheffield Hallam University. As a part of my course I am supposed to take industry placement, if you like my profile please reach out to me of you have placement opportunity availabe for me.
+I am studying MSc Computing at Sheffield Hallam University. If you like my profile, please reach out to me if you have opportunity availabe for me.
 <img align="right" alt="Smita Pandya" src="https://i.ibb.co/8BrLcyj/Smita-Pandya.png" />
 
 <p align="left"> 
