@@ -30,7 +30,6 @@ I am studying MSc Computing at Sheffield Hallam University. If you like my profi
 <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
 <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-<code><img title="Java" height="25" src="images/java-original.svg"></code>
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="GitHub" height="25" src="images/github.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
