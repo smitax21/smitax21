@@ -9,7 +9,7 @@
 <!--   <code><a href="https://github.com/smitax21" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code> -->
 </h5>
 
-I am studying MSc Computing at Sheffield Hallam University. If you like my profile, please reach out to me if you have opportunity available for me.
+ <!-- I am studying MSc Computing at Sheffield Hallam University. If you like my profile, please reach out to me if you have opportunity available for me.  -->
 <img align="right" alt="Smita Pandya" src="https://i.ibb.co/8BrLcyj/Smita-Pandya.png" />
 
 <p align="left"> 
