@@ -5,7 +5,7 @@
 </h1>
 <h5 align="center">
   <code><a href="https://twitter.com/smitax21" title="Twitter Profile"><img width="28" src="images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.linkedin.com/in/smitax21" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <!-- <code><a href="https://www.linkedin.com/in/smitax21" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 <!--   <code><a href="https://github.com/smitax21" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code> -->
 </h5>
 
